@@ -16,3 +16,7 @@
 
 
 <img width="697" height="292" alt="image" src="https://github.com/user-attachments/assets/931385be-3c78-4682-a10c-1924b3faa1d4" />
+## Result
+gain of the amplifier= 6.89hz
+bandwidth of the amplifier=99.3hz
+gain-bandwidth=217.46
